@@ -1,0 +1,4 @@
+node_modules/
+pic/
+.env
+PuppeteerForShopee.code-workspace
